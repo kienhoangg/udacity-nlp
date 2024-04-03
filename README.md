@@ -25,7 +25,7 @@ It would probably be good to first get your basic project setup and functioning.
 Remember that once you clone, you will still need to install everything:
 
 `cd` into your new folder and run:
-- `npm install`
+- `npm i --legacy-peer-deps`
 
 ## Setting up the API
 
