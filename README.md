@@ -28,7 +28,7 @@ Using Node version stable until now: v20.12.0
 Remember that once you clone, you will still need to install everything:
 `cd` into your new folder and run:
 
-- `npm i --legacy-peer-deps`
+- `npm install`
 
 ## Setting up the API
 
